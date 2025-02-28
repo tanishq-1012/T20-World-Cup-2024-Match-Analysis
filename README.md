@@ -53,7 +53,7 @@ The analysis focuses on the India vs. USA match from the T20 World Cup 2024. Usi
 
 **Interactive Charts**: Uses Plotly for dynamic and visually appealing graphs.
 
-##Technologies Used
+## Technologies Used
 
 1.Python
 
