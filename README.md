@@ -81,4 +81,12 @@ The dataset I am using provides a comprehensive record of the innings, including
 
 <img width="781" alt="Screenshot 2025-02-28 at 3 58 00 PM" src="https://github.com/user-attachments/assets/9bc7b962-c6de-4322-82fc-1678f82d9d14" />
 
+The missing values and data types:
+
+<img width="361" alt="Screenshot 2025-02-28 at 3 58 23 PM" src="https://github.com/user-attachments/assets/c4864b9b-a40e-455f-ac6b-cdfe493871dc" />
+
+<img width="361" alt="Screenshot 2025-02-28 at 3 58 36 PM" src="https://github.com/user-attachments/assets/64c32df8-91e8-431f-94da-ed9647098a9b" />
+
+
+
 
