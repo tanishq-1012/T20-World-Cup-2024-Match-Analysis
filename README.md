@@ -20,3 +20,28 @@ The analysis focuses on the India vs. USA match from the T20 World Cup 2024. Usi
 6.Run rate comparisons between the teams.
 
 7.The dataset (india-usa_innings_data.csv) contains 236 rows and 21 columns, capturing detailed ball-by-ball information.
+
+## Features
+
+**Match Data Analysis**: Insights into team performances, run rates, wickets, and player contributions.
+
+**Visualization**: Graphs and charts for better understanding of match trends.
+
+**Comparative Analysis**: Comparison of team performances across different matches.
+
+**Predictive Insights**: Basic predictions on match outcomes using regression-based analysis.
+
+**Data Cleaning**: Handles missing values and ensures data consistency.
+
+**Statistical Analysis**: Computes key metrics like strike rates, economy rates, and total extras.
+
+**Visualizations**:
+  Run progression over overs for both teams.
+  Wicket timelines.
+  Batter run distribution.
+  Bowler performance (economy rate vs. wickets).
+  Partnership contributions (stacked bar charts).
+  Key moments in the innings with annotations.
+  Run rate comparisons (average and per over).
+
+**Interactive Charts**: Uses Plotly for dynamic and visually appealing graphs.
