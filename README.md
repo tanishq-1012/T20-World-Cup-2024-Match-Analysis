@@ -37,18 +37,18 @@ The analysis focuses on the India vs. USA match from the T20 World Cup 2024. Usi
 
 **Visualizations**:
   
-  1.Run progression over overs for both teams.
+   1.Run progression over overs for both teams.
   
-  2.Wicket timelines.
+   2.Wicket timelines.
   
-  3.Batter run distribution.
+   3.Batter run distribution.
   
-  4.Bowler performance (economy rate vs. wickets).
+   4.Bowler performance (economy rate vs. wickets).
   
-  5.Partnership contributions (stacked bar charts).
+   5.Partnership contributions (stacked bar charts).
   
-  6.Key moments in the innings with annotations.
+   6.Key moments in the innings with annotations.
   
-  7.Run rate comparisons (average and per over).
+   7.Run rate comparisons (average and per over).
 
 **Interactive Charts**: Uses Plotly for dynamic and visually appealing graphs.
