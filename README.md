@@ -121,6 +121,11 @@ Let's have look at the wickets timeline:
 
 The wicket timeline graph illustrates the distribution of wickets taken over the overs for both India and the USA. The USA lost wickets more frequently, especially in the early overs, with two wickets falling in the first over, followed by consistent wicket losses throughout their innings. In contrast, India experienced their wicket losses more evenly spread across their innings, with a couple of early wickets but maintaining longer parternership in the middle overs. The frequent loss of wickets by the USA disrupted their momentum, while India's ability to avoid clusters of wickets falling in succesion helped them maintain a steady scoring rate and ultimately secure the win.
 
+## Plot 3
 
+Let's have a look at the run distribution by batter:
 
+<img width="975" alt="Screenshot 2025-02-28 at 4 00 28 PM" src="https://github.com/user-attachments/assets/8aeec37f-eec1-4872-a271-65018d072752" />
+
+Notably, S.A. Yadav emerged as the higest scorer with a significant contribution, followed by NR Kumar and S. Dube. These three players were pivotal in their team's innings, providing the bulk of the runs.
 
