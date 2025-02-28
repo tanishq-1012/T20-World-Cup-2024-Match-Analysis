@@ -64,3 +64,21 @@ The analysis focuses on the India vs. USA match from the T20 World Cup 2024. Usi
 4.Scikit-learn (for predictive analysis)
 
 5.Jupyter Notebook (for running the analysis)
+
+## Usage
+
+1.Load the dataset (t20_wc_2024_matches.csv) into the Jupyter Notebook.
+
+2.Run the analysis scripts to generate insights.
+
+3.Visualize the trends and key statistics.
+
+## Dataset
+
+The dataset I am using provides a comprehensive record of the innings, including player performance, team statistics, and specific events like dismissals and reviews.
+
+<img width="1019" alt="Screenshot 2025-02-28 at 3 57 37 PM" src="https://github.com/user-attachments/assets/58b85ada-c4f6-4b2d-bc88-c139db2d9d3c" />
+
+<img width="781" alt="Screenshot 2025-02-28 at 3 58 00 PM" src="https://github.com/user-attachments/assets/9bc7b962-c6de-4322-82fc-1678f82d9d14" />
+
+
