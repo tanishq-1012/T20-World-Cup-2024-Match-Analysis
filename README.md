@@ -119,6 +119,8 @@ Let's have look at the wickets timeline:
 
 <img width="975" alt="Screenshot 2025-02-28 at 4 00 14 PM" src="https://github.com/user-attachments/assets/9ffd2e2f-3439-4d53-a1f2-2e87397058d0" />
 
-The wicket timeline graph
+The wicket timeline graph illustrates the distribution of wickets taken over the overs for both India and the USA. The USA lost wickets more frequently, especially in the early overs, with two wickets falling in the first over, followed by consistent wicket losses throughout their innings. In contrast, India experienced their wicket losses more evenly spread across their innings, with a couple of early wickets but maintaining longer parternership in the middle overs. The frequent loss of wickets by the USA disrupted their momentum, while India's ability to avoid clusters of wickets falling in succesion helped them maintain a steady scoring rate and ultimately secure the win.
+
+
 
 
