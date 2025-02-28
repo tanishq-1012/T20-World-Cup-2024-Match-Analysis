@@ -135,4 +135,30 @@ Let's have a look at the bowling performance:
 
 <img width="975" alt="Screenshot 2025-02-28 at 4 00 49 PM" src="https://github.com/user-attachments/assets/25eb6165-e9af-47ed-b16d-b0c23ab58bac" />
 
-The bowling performance graph compares the economy rate and wickets taken by various bowlers in the match between India and the USA. Arshdeep Singh stands out the most effective bowler, taking the higest number of wickets (4) with a commendable economy rate. Other notable performance include SN Netravalkar, both taking 2 wickets each with modrate economy rates. Bowler like S Dube, having a higher economy rate, contrbuted less in terms of wickets
+The bowling performance graph compares the economy rate and wickets taken by various bowlers in the match between India and the USA. Arshdeep Singh stands out the most effective bowler, taking the higest number of wickets (4) with a commendable economy rate. Other notable performance include SN Netravalkar, both taking 2 wickets each with modrate economy rates. Bowler like S Dube, having a higher economy rate, contrbuted less in terms of wickets.
+
+# Plot 5
+
+Let's have a look at the partnership contributions in the India's innings:
+
+<img width="967" alt="Screenshot 2025-02-28 at 4 01 10 PM" src="https://github.com/user-attachments/assets/4b882234-7486-4065-947e-91fec188df68" />
+
+The partnership contributions graph for India shows the runs scored by various batting partnership over each over. Notably, the partnerships of RG Sharma & RR Pant and SA Yadav & S Dube were particularly productive, especially in the middle and death overs, contributing significantly to the team's total.
+
+## Plot 6
+
+Let's have alook at the partnership contributions in the USA's innings:
+
+<img width="967" alt="Screenshot 2025-02-28 at 4 01 29 PM" src="https://github.com/user-attachments/assets/3eaad804-a40a-4ac6-9182-b1d09dad1bc1" />
+
+The partnership contributions graph for the USA highlights the runs scored by different batting pairs over each overs. Key partnership such as SR Taylor & Aaron Jones and NR Kumar & SR Taylor significantly boosted the scoring, particularly in the middle and late overs. However, the contributions are more sporadic compared to India, With several partnerships contributing only marginally.
+
+## Plot 7 
+
+Let's have a look at the key moments for the USA in innings which resulted in a low target:
+
+<img width="967" alt="Screenshot 2025-02-28 at 4 01 56 PM" src="https://github.com/user-attachments/assets/c5f03a7d-962e-4d5a-a559-e2f2ce0d1f42" />
+
+
+
+
