@@ -113,4 +113,12 @@ Lets have a look at the progression of the run over overs:
 
 The graph shows the progression of cumulative run over the overs for both India and the USA in their T20 World Cup match. Initially, both teams had a steady run rate, with India slightly ahead in early overs. As the innings progressed, USA gained momentum and took the lead briefly around the middle overs. However, India accelerated their scoring in the later overs, surpassing the USAand maintaining the lead until the end. The key takeways is India's strong finish, which enabled them to secure the win by consistently increasing their run rate in the final overs.
 
+## Plot 2
+
+Let's have look at the wickets timeline:
+
+<img width="975" alt="Screenshot 2025-02-28 at 4 00 14 PM" src="https://github.com/user-attachments/assets/9ffd2e2f-3439-4d53-a1f2-2e87397058d0" />
+
+The wicket timeline graph
+
 
