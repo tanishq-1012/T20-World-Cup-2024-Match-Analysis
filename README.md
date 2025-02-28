@@ -105,8 +105,12 @@ I have grouped the data that we needed to analyze this properly. We can look at 
 
 <img width="633" alt="Screenshot 2025-02-28 at 3 59 34 PM" src="https://github.com/user-attachments/assets/10004c57-02eb-49db-a602-b7903b8c92f6" />
 
+## Plot 1:
 
+Lets have a look at the progression of the run over overs:
 
+<img width="975" alt="Screenshot 2025-02-28 at 4 00 00 PM" src="https://github.com/user-attachments/assets/95cc837f-c52c-4a64-a1e1-aca067a5f2dd" />
 
+The graph shows the progression of cumulative run over the overs for both India and the USA in their T20 World Cup match. Initially, both teams had a steady run rate, with India slightly ahead in early overs. As the innings progressed, USA gained momentum and took the lead briefly around the middle overs. However, India accelerated their scoring in the later overs, surpassing the USAand maintaining the lead until the end. The key takeways is India's strong finish, which enabled them to secure the win by consistently increasing their run rate in the final overs.
 
 
