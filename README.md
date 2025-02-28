@@ -52,3 +52,15 @@ The analysis focuses on the India vs. USA match from the T20 World Cup 2024. Usi
    7.Run rate comparisons (average and per over).
 
 **Interactive Charts**: Uses Plotly for dynamic and visually appealing graphs.
+
+##Technologies Used
+
+1.Python
+
+2.Pandas (for data manipulation)
+
+3.Matplotlib & Seaborn (for visualization)
+
+4.Scikit-learn (for predictive analysis)
+
+5.Jupyter Notebook (for running the analysis)
