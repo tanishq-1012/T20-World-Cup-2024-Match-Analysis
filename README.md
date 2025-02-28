@@ -129,3 +129,10 @@ Let's have a look at the run distribution by batter:
 
 Notably, S.A. Yadav emerged as the higest scorer with a significant contribution, followed by NR Kumar and S. Dube. These three players were pivotal in their team's innings, providing the bulk of the runs.
 
+## Plot 4
+
+Let's have a look at the bowling performance:
+
+<img width="975" alt="Screenshot 2025-02-28 at 4 00 49 PM" src="https://github.com/user-attachments/assets/25eb6165-e9af-47ed-b16d-b0c23ab58bac" />
+
+The bowling performance graph compares the economy rate and wickets taken by various bowlers in the match between India and the USA. Arshdeep Singh stands out the most effective bowler, taking the higest number of wickets (4) with a commendable economy rate. Other notable performance include SN Netravalkar, both taking 2 wickets each with modrate economy rates. Bowler like S Dube, having a higher economy rate, contrbuted less in terms of wickets
