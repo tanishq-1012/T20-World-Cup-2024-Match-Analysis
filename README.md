@@ -87,6 +87,26 @@ The missing values and data types:
 
 <img width="361" alt="Screenshot 2025-02-28 at 3 58 36 PM" src="https://github.com/user-attachments/assets/64c32df8-91e8-431f-94da-ed9647098a9b" />
 
+The data has null values in various columns. But in such datasets, even null values have a meaning, so we will leave them as it is and move forward.
+
+## After Gruoping Data
+
+I have grouped the data that we needed to analyze this properly. We can look at all the grouped insights one by one.
+
+1. **total_runs**:
+
+<img width="361" alt="Screenshot 2025-02-28 at 3 58 58 PM" src="https://github.com/user-attachments/assets/bcd7d5b3-6907-44c8-81ae-e268d18754a1" />
+
+2. **total_wickets**:
+
+<img width="361" alt="Screenshot 2025-02-28 at 3 59 18 PM" src="https://github.com/user-attachments/assets/3ea02051-c51a-4791-8e95-8882cb4ca9a2" />
+
+3. **total_extras**:
+
+<img width="633" alt="Screenshot 2025-02-28 at 3 59 34 PM" src="https://github.com/user-attachments/assets/10004c57-02eb-49db-a602-b7903b8c92f6" />
+
+
+
 
 
 
