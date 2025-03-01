@@ -183,4 +183,4 @@ Let's finish with a comparison of the run rate per over:
 
 <img width="999" alt="Screenshot 2025-02-28 at 4 03 18 PM" src="https://github.com/user-attachments/assets/10016b71-a9a6-48b5-ac4b-e10f05e35def" />
 
-
+The USA experienced significant fluctuations in their run rate, with peaks in the 10th and the 15th overs, but also several low-scoring overs, indicating inconsistency. India's run rate was relatively more stable, with a notable increase towards the end of thier innings. This stability in India's run rate, especially in the death overs, allowed them to maintain pressure and chase the target successfully. the graph highlights India's ability to keep a more consistent scoring pace, while the USA's variable run rate reflects periods of struggle to maintain momentum.
