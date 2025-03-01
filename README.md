@@ -165,5 +165,22 @@ The graph highlights the key momentum in USA's innings, showing the progression 
 
 <img width="967" alt="Screenshot 2025-02-28 at 4 02 13 PM" src="https://github.com/user-attachments/assets/5e5f1bd1-1181-4127-8bd8-1a428c761b4b" />
 
-Let's have a look at the key moments for India
+Let's have a look at the key moments for India:
+
+Despite an early setback with the dismissals of V. Kohli and RG Sharma in the first two overs, India managed to maintain a steady run rate. The wicket of RR Pant in the 7th over was another crucial moment, but subsequent partnerships helped stabilize the innings. 
+
+## Plot 9
+
+Lets's compare the average run rate for both teams:
+
+<img width="935" alt="Screenshot 2025-02-28 at 4 02 35 PM" src="https://github.com/user-attachments/assets/bb965901-dc87-4e8e-af45-bb621077c707" />
+
+The compairson of average run rate per over shows that India had a higher average run rate of 5.84 compared to the USA's 5.50. This indicates that India scored runs more efficiently throughout their innings. The higher run rate for India reflects their ability to maintain a steady flow of runs, despite early setbacks, which was crucial in achieving their target. The  slightly lower run rate for the USA suggest that they struggled to accelerate their scoring, especially in the middle overs, which impacted their overoall total.
+
+## Plot 10
+
+Let's finish with a comparison of the run rate per over:
+
+<img width="999" alt="Screenshot 2025-02-28 at 4 03 18 PM" src="https://github.com/user-attachments/assets/10016b71-a9a6-48b5-ac4b-e10f05e35def" />
+
 
