@@ -159,6 +159,11 @@ Let's have a look at the key moments for the USA in innings which resulted in a 
 
 <img width="967" alt="Screenshot 2025-02-28 at 4 01 56 PM" src="https://github.com/user-attachments/assets/c5f03a7d-962e-4d5a-a559-e2f2ce0d1f42" />
 
+The graph highlights the key momentum in USA's innings, showing the progression of the cumulative run with wickets marked. Early wickets, such as those of Shayan Jahangir and ASS Gous in the first over, set back the USA's momentum. Despite recoveries led by partnerships involving SR Taylor and NR Kumar, regular wickets in the middle and late overs, particularly around the 14th to 19th overs, hindered their progress. The dismissals of key players like AAron Jones, SR Taylor, and later batsmen such as Harpreet Singh and CJ Anderson, prevented the USA from building a substantial and uninterrupted run flow, ultimately impacting their total score.
 
+## Plot 8
 
+<img width="967" alt="Screenshot 2025-02-28 at 4 02 13 PM" src="https://github.com/user-attachments/assets/5e5f1bd1-1181-4127-8bd8-1a428c761b4b" />
+
+Let's have a look at the key moments for India
 
