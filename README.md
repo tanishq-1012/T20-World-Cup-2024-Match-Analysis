@@ -163,9 +163,9 @@ The graph highlights the key momentum in USA's innings, showing the progression 
 
 ## Plot 8
 
-<img width="967" alt="Screenshot 2025-02-28 at 4 02 13 PM" src="https://github.com/user-attachments/assets/5e5f1bd1-1181-4127-8bd8-1a428c761b4b" />
-
 Let's have a look at the key moments for India:
+
+<img width="967" alt="Screenshot 2025-02-28 at 4 02 13 PM" src="https://github.com/user-attachments/assets/5e5f1bd1-1181-4127-8bd8-1a428c761b4b" />
 
 Despite an early setback with the dismissals of V. Kohli and RG Sharma in the first two overs, India managed to maintain a steady run rate. The wicket of RR Pant in the 7th over was another crucial moment, but subsequent partnerships helped stabilize the innings. 
 
