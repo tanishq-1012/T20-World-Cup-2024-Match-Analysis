@@ -1,4 +1,4 @@
-# T20-World-Cup-2024-Match-Analysis
+# T-20-World-Cup-2024-Match-Analysis
 
 This repository contains a detailed analysis of the T20 World Cup 2024 match between India and the United States of America. The project uses ball-by-ball innings data to derive key statistics, visualize performance metrics, and provide insights into the match dynamics. Built with Python, Pandas, and Plotly, this analysis includes batter and bowler statistics, run progressions, partnership contributions, and more.
 
